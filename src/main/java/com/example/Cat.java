@@ -11,7 +11,7 @@ public class Cat {
     }
 
     public String getSound() {
-        return "ĞœÑÑƒ";
+        return "Ìÿó";
     }
 
     public List<String> getFood() throws Exception {
